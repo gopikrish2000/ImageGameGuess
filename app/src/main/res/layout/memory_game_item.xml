@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_marginBottom="8dp">
+
+
+    <ImageView
+        android:id="@+id/item_front_iv"
+        android:layout_width="@dimen/card_width"
+        android:layout_height="@dimen/card_height"
+        android:scaleType="fitXY"/>
+
+    <ImageView
+        android:id="@+id/item_back_iv"
+        android:layout_width="@dimen/card_width"
+        android:layout_height="@dimen/card_height"
+        android:scaleType="fitXY"
+        android:src="@drawable/grey_drawable"
+        android:visibility="gone"/>
+
+    <ImageView
+        android:id="@+id/item_overlay_iv"
+        android:layout_width="@dimen/card_width"
+        android:layout_height="@dimen/card_height"
+        android:src="@drawable/big_tick"
+        android:visibility="gone"
+        android:scaleType="fitXY"/>
+
+</RelativeLayout>
