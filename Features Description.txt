@@ -1,7 +1,7 @@
 
 ***** Components Used/Done in this project. ***
 
-1. Used Latest Android SDK 24 ( which this app is currently targeting as well ) and all build tools etc using are updated ones.
+1. Used Latest Android SDK 25 ( which this app is currently targeting as well ) and all build tools etc using are updated ones.
 2. Using Java8 with jackoptions which will enable Lambda expressions, method references etc.
 3. Used RxJava, RxAndroid extensively to make UI responsive by pushing lot of code to Background and call backs in the Main thread with unsubscription in the onDestroy.
 4. Using Retrofit to make network calls & using Glide as image library which provides caching options n image load failed etc.
@@ -12,7 +12,7 @@
    /multiple events getting fired in a span of a second.
 9. Using Espresso for Instrumentation test cases.
 
-**** Features included in this project. Some of them i added more than which is provided in the Document ***
+**** Features included in this project.***
 
 1. Added Offline game ( if network is not present or network call fails ) showing random images from the local. So internet is not mandatory for this app.
 2. Normal game if some images are broken or erroring out , replacing those with random local images , so that game can continue using with help of Glide.
