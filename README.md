@@ -31,3 +31,12 @@
 1. Showing tick on top of image for conveying to user that is correct
 2. Handled Ui for landscape mode as well.
 3. Showing loader incase network response is slow.
+
+## Screenshots
+
+<img src="https://cloud.githubusercontent.com/assets/978945/24893462/69d0a946-1ea1-11e7-918b-a255b24d2dc6.png" width="350" height="600"> </img>
+<img src="https://cloud.githubusercontent.com/assets/978945/24893467/7085e972-1ea1-11e7-9553-1f500794bd02.png" width="350" height="600"> </img>
+<img src="https://cloud.githubusercontent.com/assets/978945/24893468/70c96364-1ea1-11e7-94fb-e0c86b4942bb.png" width="350" height="600"> </img>
+<img src="https://cloud.githubusercontent.com/assets/978945/24893469/70cdf000-1ea1-11e7-8c46-e8fb335eca9e.png" width="350" height="600"> </img>
+<img src="https://cloud.githubusercontent.com/assets/978945/24893471/70d2dcdc-1ea1-11e7-8ea3-18cbd6f2369e.png" width="350" height="600"> </img>
+<img src="https://cloud.githubusercontent.com/assets/978945/24893470/70d06132-1ea1-11e7-83d8-9cd128b99f67.png" width="350" height="600"> </img>
